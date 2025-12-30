@@ -1,2 +1,2 @@
-# YOLOv9-CVPR2024-Reimplementation
-期末大作业
+# YOLOv10
+期末大作业复现的为验证基于YOLOv10模型在VOC数据集上的训练效果
