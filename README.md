@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Latest Updates -- [YOLOE: Real-Time Seeing Anything](https://github.com/THU-MIG/yoloe)
 
 Please check out our new release on [**YOLOE**](https://github.com/THU-MIG/yoloe).
@@ -209,3 +210,9 @@ If our code or models help your work, please cite our paper:
   year={2024}
 }
 ```
+=======
+期末作业复现的为yolov10在voc数据集上的表现
+
+
+
+>>>>>>> 9a9dd0c18f58afe7450dacd418695b8e7788d146
